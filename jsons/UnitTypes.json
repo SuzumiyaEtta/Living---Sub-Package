@@ -1,0 +1,261 @@
+[
+    {
+        "name": "Civilian",
+        "movementType": "Land",
+         "uniques": [
+         //失衡
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [2] and [2] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [3] and [3] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [4] and [4] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [4] and [4] [AT1]> <when between [7] and [7] [AT2]> <when between [5] and [5] [AT3]> <hidden from users>",
+         ]
+    },
+    {
+        "name": "Sword",
+        "movementType": "Land",
+         "uniques": [
+         //失衡
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [2] and [2] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [3] and [3] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [4] and [4] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [4] and [4] [AT1]> <when between [7] and [7] [AT2]> <when between [5] and [5] [AT3]> <hidden from users>",
+         ]
+    },
+    {
+        "name": "Alice",
+        "movementType": "Land",
+         "uniques": [
+         //失衡
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [2] and [2] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [3] and [3] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [4] and [4] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [4] and [4] [AT1]> <when between [7] and [7] [AT2]> <when between [5] and [5] [AT3]> <hidden from users>",
+         ]
+    },
+    {
+        "name": "Gunpowder",
+        "movementType": "Land",
+        "uniques": ["Founds a new city <for [America] Civilizations> <when between [1] and [1] [国家意志]> <in tiles adjacent to [Barbarian encampment] tiles> <hidden from users>",
+        //失衡
+        "[-7]% production cost <when between [1] and [1] [AT1]> <when between [2] and [2] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [3] and [3] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [4] and [4] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [4] and [4] [AT1]> <when between [7] and [7] [AT2]> <when between [5] and [5] [AT3]> <hidden from users>",
+         ]
+    },
+    {
+        "name": "Archery",
+        "movementType": "Land",
+         "uniques": [
+         //失衡
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [2] and [2] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [3] and [3] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [4] and [4] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [4] and [4] [AT1]> <when between [7] and [7] [AT2]> <when between [5] and [5] [AT3]> <hidden from users>",
+         ]
+    },
+    {
+        "name": "Ranged Gunpowder",
+        "movementType": "Land",
+         "uniques": [
+         //失衡
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [2] and [2] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [3] and [3] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [4] and [4] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [4] and [4] [AT1]> <when between [7] and [7] [AT2]> <when between [5] and [5] [AT3]> <hidden from users>",
+         ]
+    },
+    {
+        "name": "Scout",
+        "movementType": "Land",
+         "uniques": [
+         //失衡
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [2] and [2] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [3] and [3] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [4] and [4] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [4] and [4] [AT1]> <when between [7] and [7] [AT2]> <when between [5] and [5] [AT3]> <hidden from users>",
+         ]
+    },
+    {
+        "name": "Mounted",
+        "movementType": "Land",
+        "uniques": ["Transfer Movement to [Civilian] <when between [1] and [1] [国家意志]> <for [Denmark] Civilizations> <hidden from users>",
+        //失衡
+        "[-7]% production cost <when between [1] and [1] [AT1]> <when between [2] and [2] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [3] and [3] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [4] and [4] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [4] and [4] [AT1]> <when between [7] and [7] [AT2]> <when between [5] and [5] [AT3]> <hidden from users>",
+         //女友
+         "[This Unit] gains [1] movement <upon damaging a [All] unit> <when between [1] and [1] [AT1]> <when between [4] and [4] [AT2]> <when between [1] and [1] [AT3]> <hidden from users>",
+         "[This Unit] gains [1] movement <upon damaging a [All] unit> <when between [1] and [1] [AT1]> <when between [4] and [4] [AT2]> <when between [5] and [5] [AT3]> <hidden from users>",
+         "[This Unit] gains [1] movement <upon damaging a [All] unit> <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [1] and [1] [AT3]> <hidden from users>",
+         "[This Unit] gains [1] movement <upon damaging a [All] unit> <when between [4] and [4] [AT1]> <when between [1] and [1] [AT2]> <when between [7] and [7] [AT3]> <hidden from users>",
+         "[This Unit] gains [1] movement <upon damaging a [All] unit> <when between [4] and [4] [AT1]> <when between [3] and [3] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[This Unit] gains [1] movement <upon damaging a [All] unit> <when between [4] and [4] [AT1]> <when between [4] and [4] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[This Unit] gains [1] movement <upon damaging a [All] unit> <when between [4] and [4] [AT1]> <when between [5] and [5] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "Ignores Zone of Control <when between [1] and [1] [AT1]> <when between [4] and [4] [AT2]> <when between [1] and [1] [AT3]> <hidden from users>",
+         "Ignores Zone of Control <when between [1] and [1] [AT1]> <when between [4] and [4] [AT2]> <when between [5] and [5] [AT3]> <hidden from users>",
+         "Ignores Zone of Control <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [1] and [1] [AT3]> <hidden from users>",
+         "Ignores Zone of Control <when between [4] and [4] [AT1]> <when between [1] and [1] [AT2]> <when between [7] and [7] [AT3]> <hidden from users>",
+         "Ignores Zone of Control <when between [4] and [4] [AT1]> <when between [3] and [3] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "Ignores Zone of Control <when between [4] and [4] [AT1]> <when between [4] and [4] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "Ignores Zone of Control <when between [4] and [4] [AT1]> <when between [5] and [5] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         ]
+    },
+    {
+        "name": "Armored",
+        "movementType": "Land",
+         "uniques": [
+         //失衡
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [2] and [2] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [3] and [3] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [4] and [4] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [4] and [4] [AT1]> <when between [7] and [7] [AT2]> <when between [5] and [5] [AT3]> <hidden from users>",
+         ]
+    },
+    {
+        "name": "Siege",
+        "movementType": "Land",
+         "uniques": [
+         //失衡
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [2] and [2] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [3] and [3] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [4] and [4] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [4] and [4] [AT1]> <when between [7] and [7] [AT2]> <when between [5] and [5] [AT3]> <hidden from users>",
+         ]
+    },
+    {
+        "name": "Civilian Water",
+        "movementType": "Water"
+    },
+    {
+        "name": "Melee Water",
+        "movementType": "Water"
+    },
+    {
+        "name": "Ranged Water",
+        "movementType": "Water"
+    },
+    {
+        "name": "Submarine",
+        "movementType": "Water",
+        "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units"]
+    },
+    {
+        "name": "Aircraft Carrier",
+        "movementType": "Water"
+    },
+    {
+        "name": "Fighter",
+        "movementType": "Air",
+        "uniques": ["Aircraft", "[+4] Sight", "Can see over obstacles", "Can perform Air Sweep"]
+    },
+    {
+        "name": "Bomber",
+        "movementType": "Air",
+        "uniques": ["Aircraft"]
+    },
+    {
+        "name": "Atomic Bomber",
+        "movementType": "Air",
+        "uniques": ["Aircraft"]
+    },
+    {
+        "name": "Missile",
+        "movementType": "Air",
+        "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
+    },
+    {
+        "name": "Helicopter",
+        "movementType": "Land",
+        "uniques": ["Can pass through impassable tiles",
+        //失衡
+        "[-7]% production cost <when between [1] and [1] [AT1]> <when between [2] and [2] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [3] and [3] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [4] and [4] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [4] and [4] [AT1]> <when between [7] and [7] [AT2]> <when between [5] and [5] [AT3]> <hidden from users>",
+         ]
+    },
+
+    // Deprecated unit types required for mods without a UnitTypes.json file to work
+
+    {
+        "name": "Melee",
+        "movementType": "Land"
+    },
+    {
+        "name": "Ranged",
+        "movementType": "Land"
+    },
+    {
+        "name": "Armor",
+        "movementType": "Land",
+         "uniques": [
+         //失衡
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [2] and [2] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [3] and [3] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [4] and [4] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-7]% production cost <when between [4] and [4] [AT1]> <when between [7] and [7] [AT2]> <when between [5] and [5] [AT3]> <hidden from users>",
+         ]
+    },
+    {
+        "name": "WaterCivilian",
+        "movementType": "Water"
+    },
+    {
+        "name": "WaterMelee",
+        "movementType": "Water"
+    },
+    {
+        "name": "WaterRanged",
+        "movementType": "Water"
+    },
+    {
+        "name": "WaterSubmarine",
+        "movementType": "Water"
+    },
+    {
+        "name": "WaterAircraftCarrier",
+        "movementType": "Water"
+    },
+    {
+        "name": "AtomicBomber",
+        "movementType": "Air"
+    }
+]
