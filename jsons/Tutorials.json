@@ -1,0 +1,239 @@
+[
+    {
+        "name":"-About The Paths-",
+        "civilopediaText":[
+            {
+                "text": "What are The Paths",
+                "header":5,
+                "color":"#fa0"
+            },
+            {
+                "text": "All technologies from the Ancient Era and the tech groups enabling entry into the Classical Era upon discovering the first researchable Classical tech constitute the sample of available choices. The sequence of selecting these technologies passively determines a corresponding path, with each path providing distinct bonuses.\nOnly the first selected technology in each column of the tech tree determines the path direction, not the second or third.\nThere are 28 paths with 196 selection patterns, derived from the arrangement of the first three columns of technologies (excluding the initial [Agriculture]) sufficient to advance to the Classical Era.\nUpon entering the Classical Era, the path becomes permanently locked and unchangeable.\nPaths are represented as three-digit codes corresponding to the three path-determining technologies.\nHundreds digit: \n1→[Pottery] 2→[Animal Husbandry] 3→[Archery] 4→[Mining]\nDouble digit: \n1→[Sailing] 2→[Calendar] 3→[Writing] 4→[Trapping] 5→[The Wheel] 6→[Masonry] 7→[Bronze Working]\nSingle digits: \n1→[Optics] 2→[Philosophy] 3→[Drama and Poetry] 4→[Horseback Riding] 5→[Mathematics] 6→[Construction] 7→[Iron Working]"
+            },
+            {
+                "text": "All The Paths",
+                "header":5,
+                "color":"#fa0"
+            },
+            {
+                "text": "1.[【PLAGUE】](221, 224, 234, 241, 244, 264, 412)\n[[-15]% Strength for enemy [All] units in adjacent [All] tiles] [for [Melee] units]\n[[-10]% Strength] [when attacking] [for [Melee] units]\n[Destroys tile improvements when attacking] [for [Melee] units]\n[[-10]% [Food] [in all cities]]\n[[+10]% [Gold] [in all cities]]\n[[+1 Culture] [in this city]] [in cities with between [1] and [2] [Population]]\n[[+1 Culture] [in this city]] [in cities with between [1] and [3] [Population]]\n[[-33]% maintenance costs] [for [Land] units]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "2.[【VICTIMZATION】](254, 255, 257, 265, 276, 277, 354)\n[+1 Gold] [in capital] [for every [4] [Horses]]\n[+1 Gold] [in capital] [for every [2] [Iron]]\n[[+1] Movement] [for [Great General] units]\n[+2 Culture, +2 Happiness] [in capital] [when number of [Horses] is more than [20]]\n[+2 Culture, +2 Happiness] [in capital] [when number of [Iron] is more than [10]]\n[[+3] HP when healing] [for [All] units] [after having fought at least one war and when not at war]\n[[+3] HP when healing] [for [Melee] units] [after having fought at least one war and when not at war]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "3.[【ONLOOKER】](112, 132, 142, 313, 314, 373, 376)\n[[+1] Sight] [for [All] units]\n[[+1] Sight] [for [All] units] [in tiles adjacent to [Coast] tiles]\n[[+10]% Production when constructing [Classical era] wonders [in all cities]]\n[[+15]% Production when constructing [Medieval era] wonders [in all cities]]\n[[+1 Science] [in all coastal cities]]\n[[Gold] cost of purchasing [All] buildings [-25]%] [during the [Industrial era]]\n[[+15]% Strength] [for [All] units] [on foreign continents]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "4.[【HERO】](312, 356, 364, 365, 416, 424, 432)\n[[-25]% Gold cost of upgrading] [for [All] units]\n[Can build [All] improvements at a [+25]% rate]\n[[2] damage absorption] [for [All] units]\n[Resting point for Influence with City-States is increased by [+15]]\n[[+5]% Strength] [for [All] units]\n[No damage penalty for wounded units] [for [Air] units]\n[[+2] HP when healing] [when adjacent to a [All] unit] [for [All] units]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "5.[【MARTYRDOM】](266, 271, 317, 414, 437, 476, 477)\n[Earn [33]% of killed [Land] unit's [Strength] as [Culture]] [for [All] units]\n[Earn [33]% of killed [Land] unit's [Strength] as [Science]] [for [All] units]\n[Earn [50]% of killed [Land] unit's [Strength] as [Gold]] [for [All] units]\n[Earn [5]% of killed [Land] unit's [Cost] as [Culture]] [for [All] units]\n[Earn [5]% of killed [Land] unit's [Cost] as [Science]] [for [All] units]\n[Earn [5]% of killed [Land] unit's [Cost] as [Gold]] [for [All] units]\n[[Siege] units gain the [Martyrdom] promotion]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "6.[【BAND】](117, 152, 155, 222, 223, 231, 273)\n[[+5]% Great Person generation [in all cities]] [for every [Cities]]\n[When declaring friendship, both parties gain a [10]% boost to great person generation]\n[Free [Great Lead Singer] appears]\n[[+1] Movement] [for [Civilian] units] [in [Friendly Land] tiles]\n[Withdraws before melee combat] [for [Civilian] units]\n[[+5]% Strength bonus for [All] units within [1] tiles] [for [Civilian] units] [when stacked with a [Ranged] unit]\n[No damage penalty for wounded units] [for [Ranged] units] [when attacking]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "7.[【ASPIRATION】](174, 211, 212, 214, 233, 421, 434)\n[[+20]% Production when constructing [All] buildings [in this city]] [in cities with a [Monument]] [in cities with a [Granary]] [in cities with a [Library]] [in cities with a [堆积仓]]\n[[+1 Happiness] from every [World Wonder]]\n[[+1 Happiness] from every [Natural Wonder]]\n[[+1 Happiness] from every [Mountain]]\n[[+1 Happiness] from every [{improved} {Bonus resource}]] [with [2] to [6] neighboring [{improved} {Bonus resource}] tiles]\n[[+10]% [Science]] [when above [10] [Happiness]]\n[Free Social Policy] [upon adopting [Rationalism]]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "8.[【VIRTUALITY】](335, 351, 352, 353, 453, 461, 467)\n[[+1 Science] [in all cities]]\n[[+75]% Great Person generation [in capital]]\n[[+1 Science] from [Luxury resource] tiles [in all cities]]\n[Free Technology]\n[[+1 Science] [in this city]] [in cities with at least [3] [Population]] [with a garrison]\n[[+1 Science, -1 Gold] [in this city]] [in cities with at least [5] [Population]] [with a garrison]\n[[+1 Science, -2 Gold] [in this city]] [in cities with at least [7] [Population]] [with a garrison]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "9.[【WILL】](325, 333, 344, 367, 371, 423, 431)\n[May capture killed [Military] units] [with [33]% chance] [for [Melee] units]\n[Earn [100]% of killed [Land] unit's [Strength] as [Gold]] [for [Melee] units]\n[[+1 Food] in cities on [River] tiles]\n[Can build [Road] improvements at a [+100]% rate]\n[Can build [Railroad] improvements at a [+100]% rate]\n[[-50]% maintenance on road & railroads]\n[Ignores terrain cost] [for [Great People] units]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "10.[【HUNGER】](147, 342, 343, 357, 411, 441, 442)\n[[-10]% [Gold] [in all cities]]\n[[+10]% Food is carried over after population increases [in all cities]]\n[[-10]% [Food] [in all cities]]\n[+2 Gold] [for every [[Worker] Units]]\n[[+20]% Production when constructing [Civilian] units [in all cities]]\n[[-10]% Unhappiness from [Population] [in all cities]]\n[[+1 Gold] from every [Land]] [during a Golden Age]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "11.[【RETRO】](143, 217, 232, 274, 275, 435, 436)\n[[1] free random researchable Tech(s) from the [Ancient era]]\n[[+33]% [Science]] [while researching [Ancient era]]\n[[+1 Culture] from every [National Wonder]]\n[+1 Gold] [for every [50] [Gold]]\n[+1 Faith] [for every [40] [Faith]]\n[[+1] Sight] [for [{Water} {Military}] units]\n[[-33]% maintenance costs] [for [{Water} {Military}] units]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "12.[【UNBALANCE】](123, 134, 146, 153, 154, 156, 475)\n[[-7]% production cost] [for [Land] units]\n[[+10]% maintenance costs] [for [Land] units]\n[[+5]% Production when constructing [Civilian] units [in all cities]]\n[[+1 Production] [in all cities]]\n[[+5]% Production when constructing [Military] units [in all cities]] [in cities with at least [3] [Population]]\n[[+10]% unhappiness from the number of cities]\n[[+1 Happiness] [in all cities connected to capital]] [in cities with at least [3] [Population]]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "13.[【METAMORPHOSIS】](122, 332, 337, 345, 356, 357, 355)\n[Provides the cheapest [Science] building in your first [4] cities for free]\n[[-1 Science] [in all cities]] [in cities with between [1] and [2] [Population]]\n[[+1 Science] [in all cities]] [in cities with at least [3] [Population]]\n[[-15]% maintenance cost for [All] buildings [in all cities]]\n[[+1 Science] from every [Science]] [in cities with at least [3] [Population]]\n[[+1 Science] from every [Science]] [in cities with at least [5] [Population]] [in cities with a [University]]\n[Can move after attacking] [for [Gatling Gun] units]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "14.[【GIRLFRIEND】](141, 145, 151, 417, 433, 443, 454)\n[Gains [1] movement] [upon damaging a [All] unit] [for [Mounted] units]\n[Ignores Zone of Control] [for [Mounted] units]\n[[+3 Gold] [in this city]] [in cities with at least [1] [Specialists]]\n[[-5]% Unhappiness from [Population] [in all cities]]\n[[-10]% unhappiness from the number of cities]\n[[+15]% Strength] [for [All] units] [when defending] [in [Fort] tiles]\n[[+25]% Golden Age length]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "15.[【CHURCH】](111, 113, 167, 171, 177, 215, 216)\n[[+10]% Production when constructing [Water] units [in all cities]] [in cities with a [Shrine]]\n[[+10]% Production when constructing [Water] units [in all cities]] [in cities with a [Temple]]\n[Gain [125] [Faith]] [upon discovering a Natural Wonder] [(modified by game speed)]\n[Withdraws before melee combat] [for [Missionary] units] [in [Foreign Land] tiles]\n[[+33]% Yield from every [Holy site]]\n[[+1 Faith] from every [Luxury resource]]\n[[+10]% Strength] [for [{Military} {Water}] units]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "16.[【ATTACHMENT】](124, 126, 131, 176, 331, 334, 336)\n[Each city founded increases culture cost of policies [25]% less than normal]\n[Each city founded increases Science cost of Technologies [25]% less than normal]\n[[+1 Culture, +1 Happiness] per [2] social policies adopted] [when at war]\n[+2 Happiness] [for every [[Great General] Units]]\n[[-33]% City-State Influence degradation]\n[[+10]% Strength] [for [Land] units] [when defending] [in [Hill] tiles]\n[Empire enters golden age] [upon declaring friendship]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "17.[【SOLDIER】](127, 144, 256, 261, 262, 462, 472)\n[[+10]% Strength] [for [All] units] [when attacking] [when above [50] HP]\n[[+10]% Strength] [for [All] units] [when defending] [when below [50] HP]\n[[1] XP gained from combat] [for [Wounded] units]\n[[+5]% Strength bonus for [Military] units within [2] tiles] [for [Great General] units]\n[Ignores terrain cost] [for [Great General] units]\n[[+10]% Strength] [when fighting units from a Civilization with more Cities than you]\n[[Great General] is earned [33]% faster]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "18.[【MEMORY】](114, 115, 166, 172, 251, 447, 465)\n[[+10] HP when healing] [for [All] units] [in [Friendly Land] tiles]\n[[+1 Happiness] [in this city]] [in cities with at least [5] [Population]] [for every [6] [Completed Policy branches]]\n[Free Social Policy] [when number of [[Civilian] Units] is more than [2]]\n[[+10]% Production towards any buildings that already exist in the Capital]\n[Heals [10] HP] [for [All] units] [upon gaining the [Heal Instantly] promotion]\n[[+10]% Strength] [for [All] units] [when defending] [in [River] tiles]\n[[-33]% maintenance costs] [for [Civilian] units]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "19.[【SENTENCE】](116, 121, 125, 133, 135, 136, 363)\n[[+1] Movement] [for [All] units] [when below [30] HP]\n[No damage penalty for wounded units] [for [All] units] [when below [30] HP]\n[[Target Unit] takes [2] damage] [for [All] units] [upon damaging a [Wounded] unit]\n[Gains the [Stained with blood] status for [1] turn(s)] [for [All] units] [upon defeating a [All] unit]\n[Each city founded increases culture cost of policies [33]% less than normal] [when number of [Cities] is more than [7]]\n[[-7]% maintenance costs] [for [All] units]\n[[-7]% maintenance cost for [All] buildings [in all cities]]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "20.[【THREAT】](137, 157, 165, 225, 226, 263, 377)\n[[+15]% [Science]] [while the empire is happy]\n[[-10]% [Science]] [when at war]\n[+2 Happiness] [when not at war]\n[[+1 Production] from every [Strategic resource]] [in tiles adjacent to [Strategic resource] tiles]\n[[+2 Gold] from every [{improved} {Strategic resource}]]\n[Cost increases by [-15] per owned city] [for [堆积仓] buildings]\n[[+100]% [Iron] resource production]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "21.[【DETECTION】](161, 175, 213, 237, 372, 374, 451)\n[Gain [100] [Science]] [(modified by game speed)] [upon discovering a Natural Wonder]\n[Gain [7] [Science]] [(modified by game speed)] [upon discovering a [Mountain] tile]\n[Earn [66]% of killed [Land] unit's [Strength] as [Science]] [for [Water] units]\n[[+1 Science, +2 Gold] from every [Academy]]\n[[+10]% Production when constructing [All] wonders [in all cities with a world wonder]]\n[[1] Movement point cost to disembark] [for [All] units]\n[[+2] Movement] [for [All] units] [in [Coast] tiles]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "22.[【RESERVE】](227, 235, 245, 361, 427, 473, 474)\n[[+1] Range] [for [Archer] units]\n[[1] additional attacks per turn] [for [Archer] units] [for units with [Barrage II]]\n[[-33]% production cost] [for [Warrior] units]\n[[+1] Movement] [for [Warrior] units]\n[All newly-trained [Warrior] units [in all cities] receive the [Amphibious] promotion]\n[[+5] HP when healing] [for [Archer] units]\n[[+5] HP when healing] [for [Warrior] units]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "23.[【STORY】](162, 173, 247, 267, 272, 327, 341)\n[[+2] HP when healing] [for [All] units]\n[[+2] HP when healing] [when below [90] HP] [for [All] units]\n[[+3] HP when healing] [when below [75] HP] [for [All] units]\n[[+5] HP when healing] [when below [50] HP] [for [All] units]\n[[+15] HP when healing] [when below [25] HP] [for [All] units]\n[[+1 Gold] from every [Luxury resource]]\n[[+2 Gold] from every [{improved} {Luxury resource}]]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "24.[【GENERALIZATION】](252, 321, 322, 323, 326, 366, 375)\n[[+1] Movement] [for [Civilian] units]\n[New spies start with [2] level(s)]\n[[+3 Happiness] [in puppeted cities]]\n[[-3 Gold] [in puppeted cities]]\n[[-33]% production cost] [for [Courthouse] buildings]\n[[+15]% [Gold] [in all cities]] [in cities with a [Courthouse]]\n[[+2 Gold] from every [Courthouse]]\n[Transfer Movement to [Civilian]] [for [Military] units]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "25.[【NEUTRON】](236, 311, 315, 316, 362, 445, 463)\n[[+25]% Strength] [for [Nuclear Missile] units]\n[Limited to [2] per Civilization] [for [Nuclear Missile] units] [when number of [Cities] is less than [15]]\n[Limited to [5] per Civilization] [for [Nuclear Missile] units] [when number of [Cities] is more than [14]]\n[[-33]% production cost] [for [Nuclear Missile] units]\n[[+100]% [Uranium] resource production]\n[[3] Free Technologies] [upon constructing [Manhattan Project]]\n[[+1] Sight] [for [Ranged] units]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "26.[【MIRACLE】](324, 412, 425, 452, 456, 457, 464)\n[Heals [2] HP] [for [All] units] [upon damaging a [All] unit]\n[Heals [3] HP] [for [Melee] units] [when adjacent to a [All] unit] [upon damaging a [All] unit]\n[Heals [10] damage if it kills a unit] [for [Melee] units]\n[Heals [2] HP] [for [Can move after attacking] units] [upon losing at least [1] HP in a single attack]\n[Heals [100] HP] [for [All] units] [upon gaining the [March] promotion]\n[[Gold] cost of purchasing [All] buildings [-66]%] [after turn number [100]] [before turn number [101]]\n[[-10]% maintenance costs] [for [All] units] [when not at war]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "27.[【DERIVATIVE】](163, 242, 243, 414, 422, 446, 466)\n[[+25]% Yield from every [Great Improvement]]\n[[+100]% Production when constructing [Military] units [in all cities]] [for [2] turns] [upon declaring war with a major Civilization]\n[Gains [10] XP] [upon gaining the [Heal Instantly] promotion]\n[Gain [35] [Science]] [upon expending a [Great Person] unit] [(modified by game speed)]\n[[3] units cost no maintenance]\n[[2] Unit Supply]\n[[5] XP gained from combat] [for [Alice] units]"
+            },
+            {
+                "separator":true,
+                "color":"#FFFFFF",
+                "size":1
+            },
+            {
+                "text": "28.[【HALLUCINATE】](164, 246, 253, 426, 444, 455, 471)\n[[+1 Faith] from every [Shrine]]\n[Earn [66]% of killed [Land] unit's [Strength] as [Faith]] [for [Mounted] units]\n[[+15]% Strength] [for [Ranged] units] [when attacking]\n[Unavailable] [for [Apollo Program] buildings]\n[[+1 Faith] [in all cities]]\n[[+50]% [Faith] [in this city]] [in cities with a [National College]]\n[[-10]% Unhappiness from [Population] [in this city]] [in cities with a [Courthouse]]"
+            },
+        ]
+    }
+]

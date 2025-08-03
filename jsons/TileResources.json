@@ -1,0 +1,38 @@
+[
+	{
+		"name": "AT1",
+		"resourceType": "Strategic",
+		"revealedBy": "计数器存储",
+		"uniques": [
+		"Cannot be traded"
+		"Not shown on world screen"
+		"Stockpiled"
+		"Will not be displayed in Civilopedia"
+		"Comment [计数器类型资源]"
+		]
+	},
+	{
+		"name": "AT2",
+		"resourceType": "Strategic",
+		"revealedBy": "计数器存储",
+		"uniques": [
+		"Cannot be traded"
+		"Not shown on world screen"
+		"Stockpiled"
+		"Will not be displayed in Civilopedia"
+		"Comment [计数器类型资源]"
+		]
+	},
+	{
+		"name": "AT3",
+		"resourceType": "Strategic",
+		"revealedBy": "计数器存储",
+		"uniques": [
+		"Cannot be traded"
+		"Not shown on world screen"
+		"Stockpiled"
+		"Will not be displayed in Civilopedia"
+		"Comment [计数器类型资源]"
+		]
+	},
+]

@@ -1,0 +1,54 @@
+[
+	{
+		"name": "Courthouse",
+		"maintenance": 4,
+		"hurryCostModifier": 50,
+		"uniques": ["Removes extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>"
+			//泛化
+			"[-33]% production cost <when between [2] and [2] [AT1]> <when between [5] and [5] [AT2]> <when between [2] and [2] [AT3]> <hidden from users>",
+         "[-33]% production cost <when between [3] and [3] [AT1]> <when between [2] and [2] [AT2]> <when between [1] and [1] [AT3]> <hidden from users>",
+         "[-33]% production cost <when between [3] and [3] [AT1]> <when between [2] and [2] [AT2]> <when between [2] and [2] [AT3]> <hidden from users>",
+         "[-33]% production cost <when between [3] and [3] [AT1]> <when between [2] and [2] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "[-33]% production cost <when between [3] and [3] [AT1]> <when between [2] and [2] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-33]% production cost <when between [3] and [3] [AT1]> <when between [6] and [6] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "[-33]% production cost <when between [3] and [3] [AT1]> <when between [7] and [7] [AT2]> <when between [5] and [5] [AT3]> <hidden from users>",
+			],
+		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "堆积仓",
+		"production": 1,
+		"cost": 75,
+		"maintenance": 1,
+		"requiredTech": "Calendar",
+		"uniques": ["[+1 Production] <in cities with at least [4] [Population]>",
+		"[+1 Production] <in cities with at least [7] [Population]>",
+		"Cost increases by [-15] per owned city <when between [1] and [1] [AT1]> <when between [3] and [3] [AT2]> <when between [7] and [7] [AT3]> <hidden from users>",
+         "Cost increases by [-15] per owned city <when between [1] and [1] [AT1]> <when between [5] and [5] [AT2]> <when between [7] and [7] [AT3]> <hidden from users>",
+         "Cost increases by [-15] per owned city <when between [1] and [1] [AT1]> <when between [6] and [6] [AT2]> <when between [5] and [5] [AT3]> <hidden from users>",
+         "Cost increases by [-15] per owned city <when between [2] and [2] [AT1]> <when between [2] and [2] [AT2]> <when between [5] and [5] [AT3]> <hidden from users>",
+         "Cost increases by [-15] per owned city <when between [2] and [2] [AT1]> <when between [2] and [2] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "Cost increases by [-15] per owned city <when between [2] and [2] [AT1]> <when between [6] and [6] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "Cost increases by [-15] per owned city <when between [3] and [3] [AT1]> <when between [7] and [7] [AT2]> <when between [7] and [7] [AT3]> <hidden from users>",
+		]
+	},
+	{
+		"name": "Apollo Program",
+		"cost": 750,
+		"isNationalWonder": true,
+		"uniques": ["Unavailable <if [Stebernadette] is constructed by anybody> <hidden from users>",
+		"Enables construction of Spaceship parts", "Triggers a global alert upon completion", 
+			"Only available <when [Scientific] Victory is enabled>", "Cannot be hurried",
+			//幻视
+			"Unavailable <when between [1] and [1] [AT1]> <when between [6] and [6] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "Unavailable <when between [2] and [2] [AT1]> <when between [4] and [4] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "Unavailable <when between [2] and [2] [AT1]> <when between [5] and [5] [AT2]> <when between [3] and [3] [AT3]> <hidden from users>",
+         "Unavailable <when between [4] and [4] [AT1]> <when between [2] and [2] [AT2]> <when between [6] and [6] [AT3]> <hidden from users>",
+         "Unavailable <when between [4] and [4] [AT1]> <when between [4] and [4] [AT2]> <when between [4] and [4] [AT3]> <hidden from users>",
+         "Unavailable <when between [4] and [4] [AT1]> <when between [5] and [5] [AT2]> <when between [5] and [5] [AT3]> <hidden from users>",
+         "Unavailable <when between [4] and [4] [AT1]> <when between [7] and [7] [AT2]> <when between [1] and [1] [AT3]> <hidden from users>",
+			],
+		"requiredTech": "Rocketry"
+	},
+]
